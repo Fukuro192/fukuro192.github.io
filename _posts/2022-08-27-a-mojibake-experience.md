@@ -60,6 +60,7 @@ to check if I'm right: I took `У·Ц{МъЙ╣Р║СfН▐ПW` and transformed
 from `IBM866` to `Shift_JIS`
 
 the result was: `日本語音声素材集`
+
 me be like: yeeeeeeeeeeah
 
 so I took this string: `ぎゅぅう！.wav` (yeah because all the audio in this zip have `.wav` as file-extention):
@@ -74,6 +75,7 @@ find -name "ВмВуВгВдБI.wav" -type f
 
 and the result is:
 `./У·Ц{МъЙ╣Р║СfН▐ПW/MoHPA/Г_ГББ[ГWБEЩЇЪK/ВмВуВгВдБI.wav`
+
 I play the audio I found to check: it is the audio I was looking for!
 
 NIIIIIIIIIIIIIIIIIICE!!!!!!!!!!!
