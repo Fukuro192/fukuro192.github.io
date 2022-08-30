@@ -1,6 +1,6 @@
 ---
 title: A Mojibake Experience
-date: 2022-08-30 14:24:00 +100
+date: 2022-08-29 14:24:00 +100
 categories: [computer science]
 tags: [storytime,computer science,linux,mojibake,meme]
 ---
