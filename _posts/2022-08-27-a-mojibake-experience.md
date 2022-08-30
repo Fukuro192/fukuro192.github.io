@@ -1,6 +1,6 @@
 ---
 title: A Mojibake Experience
-date: 2022-08-26 18:53:00 +100
+date: 2022-08-30 14:24:00 +100
 categories: [computer science]
 tags: [storytime,computer science,linux,mojibake,meme]
 ---
@@ -54,7 +54,7 @@ after a big trouble I could find that the encoding of `У·Ц{МъЙ╣Р║Сf�
 to check, I used a site that transforms the texts by changing the encodings:
 
 [https://www.online-decoder.com/el/ei](https://www.online-decoder.com/el/ei)
-(the website seems to give a 502 Bad Gateway error).
+(sometimes, the website can give you a 502 Bad Gateway error).
 
 to check if I'm right: I took `У·Ц{МъЙ╣Р║СfН▐ПW` and transformed the encoding:
 from `IBM866` to `Shift_JIS`
