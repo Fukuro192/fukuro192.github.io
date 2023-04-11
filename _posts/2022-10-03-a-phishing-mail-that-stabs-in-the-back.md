@@ -1,5 +1,5 @@
 ---
-title: A Phshing Mail that stabs in the Back
+title: A Phishing Mail that stabs in the Back
 date: 2022-10-03 18:29:00 +100
 categories: [computer science]
 tags: [storytime,computer science,reverse engineering,linux]
