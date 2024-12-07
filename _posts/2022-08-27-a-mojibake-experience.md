@@ -10,6 +10,8 @@ A video that, when I watched it, I shat myself laughing, which is the following:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LciNOuifV5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+(Most likely the video got removed. You can find the original niconico video [here](https://www.nicovideo.jp/watch/sm19982039).)
+
 It's like a YTP of Kotoura-san, but with mitary-style voice acting.
 What got my attention was that GYUUUUHN scream at 5:45.
 
