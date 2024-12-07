@@ -25,7 +25,7 @@ One of the comments (niconico-douga comment that you find in the video, not a co
 I searched on Youtube: `日本兵サウンドライブラリー` (in english: sound library of japanese soldiers)
 then I've found a veeeeery long video (7 hours long, oh shit):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vxgJQ9H4ZHA?si=pS6TNRMq1R7L6s9Z&amp;start=4037" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxgJQ9H4ZHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ouf, the list of audios in the vid is ordered, as the order of the japanese kana:
 as: a-i-u-e-o ka-ki-ku-ke-ko ... etc.
