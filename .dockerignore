@@ -1,0 +1,15 @@
+.git
+.github
+.gitignore
+.devcontainer
+.jekyll-cache
+.jekyll-metadata
+_site
+.bundle
+vendor
+*.gem
+node_modules
+README.md
+LICENSE
+.idea
+.vscode
